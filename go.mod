@@ -1,3 +1,3 @@
-module github.com/recommend_rss/RssDb
+module github.com/DxyDever/RssDb
 
 go 1.17
