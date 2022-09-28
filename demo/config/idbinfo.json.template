@@ -1,0 +1,17 @@
+{
+    "backup_dbinfo_map": <idbinfo_backup_dbinfo_map>,
+    "dynamic_pwd_server": {
+        "ip":"<pwdServerIP>",
+        "port":"<pwdServerPort>",
+        "bak_ip":"<pwdServerBakIP>",
+        "bak_port":"<pwdServerBakPort>"
+    },
+    "manager_option": {
+        "db_info_update_interval_sec": <db_info_update_interval_sec>,
+        "db_info_update_method": <db_info_update_method>,
+        "encrypted_pwd_flag": <pwdencrypted>,
+        "switch_db_info_update": <switch_db_info_update>,
+        "yinlian_dynamic_pwd_flag": <ysfdynamicpwd>
+    },
+    "redis_sentinel_map": <idbinfo_redis_sentinel_map>
+}
