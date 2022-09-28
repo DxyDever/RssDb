@@ -1,0 +1,12 @@
+{
+    "ConnTimeout": 1000,
+    "DbName": "sentry",
+    "Host": "10.141.0.234",
+    "MaxIdleConn": 50,
+    "MaxOpenConn": 200,
+    "Password": "shumeiShumei2016",
+    "Port": 3306,
+    "ReadTimeout": 1000,
+    "User": "root",
+    "WriteTimeout": 1000
+}

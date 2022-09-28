@@ -1,0 +1,11 @@
+{
+    "Host":"10.66.121.171",
+    "Port":6379,
+    "ConnTimeout":1000,
+    "ReadTimeout":1000,
+    "WriteTimeout":1000,
+    "RetryCount":1,
+    "MaxIdle":50,
+    "MaxConn":200,
+    "Password":"crs-huhkvgpi:shumei123"
+}

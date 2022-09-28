@@ -1,0 +1,45 @@
+{
+    "backup_dbinfo_map": {
+        "0.0.0.0:3306/sentry": [
+            {
+                "db_type": "mysql",
+                "host": "10.141.0.234",
+                "password": "shumeiShumei2016",
+                "port": "3306",
+                "user_name": "root",
+                "db_name": "sentry"
+            }
+        ]
+    },
+    "dynamic_pwd_server": {
+        "bak_ip": "10.141.2.209",
+        "bak_port": "16410",
+        "ip": "10.141.2.209",
+        "port": "16416"
+    },
+    "manager_option": {
+        "db_info_update_interval_sec": 30,
+        "encrypted_pwd_flag": false,
+        "switch_db_info_update": false,
+        "yinlian_dynamic_pwd_flag": false
+    },
+    "redis_sentinel_map": {
+        "10.141.3.217:26379": [
+            {
+                "host": "10.141.3.217",
+                "name": "M1",
+                "port": "26379"
+            },
+            {
+                "host": "10.141.3.217",
+                "name": "M1",
+                "port": "26380"
+            },
+            {
+                "host": "10.141.3.217",
+                "name": "M1",
+                "port": "26381"
+            }
+        ]
+    }
+}
